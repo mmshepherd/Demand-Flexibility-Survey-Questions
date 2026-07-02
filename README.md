@@ -5,4 +5,5 @@ understand the relationships between household characteristics and their willing
 flexibility programs offered by their utility. 
 
 The file is accessible as a .tex file. To generate a pdf version of the survey, upload the Survey.tex file to Overleaf. 
-Once the file is uploaded, generate and download the pdf file. 
+Once the file is uploaded, generate and download the pdf file. Alternatively, the .tex file can be viewed using any 
+other .tex compiler. 
